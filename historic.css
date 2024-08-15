@@ -1,0 +1,178 @@
+
+        .head{
+           padding: 20px;
+           top: 0px;
+           left: 0ch;
+           right: 0ch;
+          width: 97%;
+           position: absolute;
+          font-family: 'monaco',monaco,monospace;
+           font-weight: 600;
+           background-color:white ;
+           font-size:30px;
+           box-shadow: black;
+        }
+
+        .main{
+           display: flex;
+           flex-direction: row;
+        }
+
+        .main_2{
+           display: flex;
+           flex-direction: row;
+        }
+
+        .taj{
+            margin-top: 100px;
+
+        }
+
+        .red{
+           margin-top: 100px;
+           margin-left:70px ;
+        }
+
+        .temple{
+            margin-top:100px;
+            margin-left:65px ;
+        }
+
+        .B_tem{
+            margin-top: 50px;
+        }
+
+        .G_tem{
+           margin-top: 50px;
+           margin-left: 70px;
+        }
+
+        .I_G{
+           margin-top: 50px;
+            margin-left:65px ;
+        }
+
+        #fist{
+            margin-left: 132px;
+            margin-top: auto;
+            font-size: 25px;
+            box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            width: 125px;
+            font-family: Helvetica, Arial, sans-serif;
+            border-radius: 6px 0;
+        }
+
+        #second{
+            margin-left: 135px;
+            font-size: 25px;
+            margin-top: auto;
+            box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            width: 110px;
+            font-family: Helvetica, Arial, sans-serif;
+            border-radius: 6px 0;
+        }
+
+        #third{
+            margin-left: 27%;
+            font-size: 25px;
+            margin-top: auto;
+            box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            width: 185px;
+            font-family: Helvetica, Arial, sans-serif;
+            border-radius: 6px 0;
+          }
+
+        #forth{
+            margin-left: 50px;
+            font-size: 25px;
+            margin-top: auto;
+            box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            width: 295px;
+            font-family: Helvetica, Arial, sans-serif;
+            border-radius: 6px 0;
+        }
+
+        #fifth{
+            font-size: 25px;
+            margin-top:auto;
+            margin-left:100px ;
+            box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            width: 185px;
+            font-family: Helvetica, Arial, sans-serif;
+            border-radius: 6px 0;
+        }
+
+        #sixth{
+            font-size: 25px;
+            margin-top: auto;
+            margin-left:140px ;
+            box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            width: 130px;
+            font-family: Helvetica, Arial, sans-serif;
+            border-radius: 6px 0;
+        }
+
+        .ant{
+            margin-bottom: -34px;
+            margin-left: 230px;
+            width: 275px;
+            font-family: Helvetica, Arial, sans-serif;
+            box-shadow: 2px 3px 4px 4px  rgb(209, 209, 209);
+            font-size: 30px;
+            border-radius: 6px 0px;
+        }
+
+        .foot{
+         
+            left: 0px;
+            position: absolute;
+            width: 97%;
+            text-align: center;
+            padding: 20px;
+            font-size: 25px;
+            font-weight: 600;
+            background-color: #1a1a3b;
+            color: white;
+            font-family: Helvetica, Arial, sans-serif;
+        }
+
+        body{
+            background-color: rgb(227, 238, 241);
+        }
+
+        .nav{
+            float: right;
+            text-decoration: none;
+            padding: 20px;
+            font-weight: 600;
+            font-size: 20px;
+            margin-bottom: -20px;
+        }
+
+        a{
+            text-decoration: none;
+            color: black;
+        }
+
+        ul{
+            margin-top:-50px;
+            list-style-type: none;
+        }
+
+        #anthem{
+            margin-top:60px;
+            margin-bottom: 40px
+        }
+
+        .a{
+            text-indent: 20px;
+            margin-left: 40%;
+        }
+        .mail{
+            color:#269cdd;
+        }
+        .nav:hover{
+            color: #269cdd;
+        }
+        
+    
